@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style2.css" />
+    <title>TravelIndia</title>
+</head>
+
+<body>
+
+    <body>
+
+        <!--===========Nav Bar=================-->
+        <section class="nav-bar">
+            <div class="logo">TravelIndia</div>
+            <ul class="menu">
+                <li><a href="#">home</a></li>
+                <li><a href="#">tours</a></li>
+                <li><a href="#">about us</a></li>
+                <li><a href="#">contact us</a></li>
+            </ul>
+            </div>
+
+        </section>
+        <!--===============Banner================-->
+        <section class="banner">
+            <div class="banner-text-item">
+                <div class="banner-heading" style="background-image: url();">
+                    <h1>Let us know what interests you!</h1>
+                </div>
+                <form class="form">
+                    <input type="text" list="mylist" placeholder="Where would you like to go?">
+                    <datalist id="mylist">
+                        <option>Mumbai</option>
+                        <option>Udaipur</option>
+                        <option>Gokarna</option>
+                        <option>Guwahati</option>
+                        <option>Nainital</option>
+                        <option>Coimbatore</option>
+                    </datalist>
+                    <a href="#" class="book">book</a>
+                </form>
+            </div>
+        </section>
+
+        
+        
+        <!--==============Places===================-->
+        <section class="places">
+            <div class="places-text">
+                <small>UPCOMING TOURS PACKAGES</small>
+                <h2>FAMOUS TOURS</h2>
+            </div>
+
+            <div class="cards">
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                           
+                             <img src="https://as2.ftcdn.net/v2/jpg/02/01/18/91/1000_F_201189187_HAvNKbc5dBACc8Sl0sXVv8lVbwQua0ph.jpg">
+                        </div>
+                    </div>
+
+                    <div class="text">
+                       
+                        <h2>Mumbai</h2>
+                        <p class="cost">Rs 6000/ Person</p>
+                        <div class="card-box">
+                            <p class="time">🕓 3 Days</p>
+            
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <img src="https://www.zingbus.com/blog/wp-content/uploads/2022/06/udaipur-4.jpg">
+                        </div>
+                    </div>
+
+                    <div class="text">
+                       
+                        <h2>Udaipur</h2>
+                        <p class="cost">Rs 7800 / Per Person</p>
+                        <div class="card-box">
+                            <p class="time">🕓 4 Days</p>
+                           
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <img src="https://gumlet.assettype.com/dtnext/import/Articles/2019/Apr/201904180526293592_Gokarna-The-perfect-land-for-a-wanderer_SECVPF.gif?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true">
+                        </div>
+                    </div>
+
+                    <div class="text">
+                        
+                        <h2>Gokarna</h2>
+                        <p class="cost">Rs 3500 Per Person</p>
+                        <div class="card-box">
+                            <p class="time">🕓 4 Days</p>
+                            
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <img
+                                src="https://gumlet.assettype.com/pratidintime%2F2022-07%2F5678de74-1a10-43d9-90e1-f6d5c27218b9%2Fe25236bef5919997669dfc2819310026.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true">
+                        </div>
+                    </div>
+
+                    <div class="text">
+                       
+                        <h2>Guwahati</h2>
+                        <p class="cost">Rs. 5400 / Per Person</p>
+                        <div class="card-box">
+                            <p class="time">🕓 5 Days</p>
+                        
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <img src="https://static.toiimg.com/photo/84345016.cms">
+                        </div>
+                    </div>
+
+                    <div class="text">
+                       
+                        <h2>Nainital</h2>
+                        <p class="cost">Rs. 7000 / Per Person</p>
+                        <div class="card-box">
+                            <p class="time">🕓 6 Days</p>
+                           
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <img
+                                src="https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2022/07/People-visiting-Adi-yogi-Lord-Shiva-Statue-314807-pixahive-e1658124225592.webp?fit=2118%2C1420&ssl=1">
+                        </div>
+                    </div>
+
+                    <div class="text">
+                        
+                        <h2>Coimbatore</h2>
+                        <p class="cost">Rs. 4500 / Per Person</p>
+                        <div class="card-box">
+                            <p class="time">🕓 6 Days</p>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--===========About Us===============-->
+        <section class="about">
+
+            <div class="about-text">
+                <small>ABOUT OUR COMPANY</small>
+                <h2 >We are a group of energetic youths on a mission to travel and explore unknown places in India</h2>
+            
+            </div>
+        </section>
+
+        <!--===========Footer=================-->
+        <div class="footer">
+        
+            <div class="links">
+                <h3>Support</h3>
+                <ul>
+                    <li>Frequently Asked Questions</li>
+                    <li>Report a Payment Issue</li>
+                    <li>Terms & Conditions</li>
+                    <li>Privacy Policy</li>
+                </ul>
+            </div>
+        </div>
+    </body>
+
+</html>
+</body>
+
+</html>
